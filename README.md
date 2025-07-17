@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/eddyv73-azure-mcp-badge.png)](https://mseep.ai/app/eddyv73-azure-mcp)
+
 # Azure MCP
 
 A Model Context Protocol server for Azure CLI operations. This MCP allows Claude to manage Azure resources, subscriptions, and services.
